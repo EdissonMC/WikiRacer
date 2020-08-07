@@ -1,0 +1,381 @@
+
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Suárez, Tolima - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"339e57c3-3bcc-429e-b839-94465837eaef","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Suárez,_Tolima","wgTitle":"Suárez, Tolima","wgCurRevisionId":917610880,"wgRevisionId":917610880,"wgArticleId":10715574,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","Articles with short description","All stub articles","Populated places in the Tolima Department","Municipalities of Tolima Department","Andean Region (Colombia) geography stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Suárez,_Tolima","wgRelevantArticleId":10715574,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q2104427"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":
+"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Colombia_-_Tolima_-_Su%C3%A1rez.svg/1200px-Colombia_-_Tolima_-_Su%C3%A1rez.svg.png"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Su%C3%A1rez,_Tolima&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Su%C3%A1rez,_Tolima&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Su%C3%A1rez,_Tolima"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Suárez_Tolima rootpage-Suárez_Tolima skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Suárez, Tolima</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Municipality and town in Tolima Department, Colombia</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Suárez</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Municipalities_of_Colombia" title="Municipalities of Colombia">Municipality</a> and town</div></td></tr><tr class="mergedtoprow"><td colspan="2" class="maptable" style="text-align:center"><div style="display:table; width:100%; background:none;">
+<div style="display:table-row"><div style="display:table-cell;vertical-align:middle; text-align:center;"><a href="/wiki/File:Flag_of_Su%C3%A1rez_(Tolima).svg" class="image" title="Flag of Suárez"><img alt="Flag of Suárez" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Su%C3%A1rez_%28Tolima%29.svg/100px-Flag_of_Su%C3%A1rez_%28Tolima%29.svg.png" decoding="async" width="100" height="67" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Su%C3%A1rez_%28Tolima%29.svg/150px-Flag_of_Su%C3%A1rez_%28Tolima%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Su%C3%A1rez_%28Tolima%29.svg/200px-Flag_of_Su%C3%A1rez_%28Tolima%29.svg.png 2x" data-file-width="750" data-file-height="500" /></a><div style="padding:0.2em 0 0.2em 0;">Flag</div></div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Colombia_-_Tolima_-_Su%C3%A1rez.svg" class="image" title="Location of the municipality and town of Suárez in the Tolima Department of Colombia."><img alt="Location of the municipality and town of Suárez in the Tolima Department of Colombia." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Colombia_-_Tolima_-_Su%C3%A1rez.svg/250px-Colombia_-_Tolima_-_Su%C3%A1rez.svg.png" decoding="async" width="250" height="358" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Colombia_-_Tolima_-_Su%C3%A1rez.svg/375px-Colombia_-_Tolima_-_Su%C3%A1rez.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Colombia_-_Tolima_-_Su%C3%A1rez.svg/500px-Colombia_-_Tolima_-_Su%C3%A1rez.svg.png 2x" data-file-width="1078" data-file-height="1542" /></a><div style="padding:0.3em 0 0 0;">Location of the municipality and town of Suárez in the Tolima Department of Colombia.</div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Su%C3%A1rez,_Tolima&amp;params=4_33_N_74_50_W_type:city(4519)_region:CO"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">4°33′N</span> <span class="longitude">74°50′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">4.550°N 74.833°W</span><span style="display:none">&#xfeff; / <span class="geo">4.550; -74.833</span></span></span></a></span><sup id="cite_ref-general_1-0" class="reference"><a href="#cite_note-general-1">&#91;1&#93;</a></sup></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Departments_of_Colombia" title="Departments of Colombia">Department</a></th><td><a href="/wiki/Tolima_Department" title="Tolima Department">Tolima Department</a></td></tr><tr class="mergedtoprow"><th scope="row">Founded</th><td>1696</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Municipalities_of_Colombia" title="Municipalities of Colombia">Municipality</a> and town</th><td><a href="/wiki/1_E%2B8_m%C2%B2" class="mw-redirect" title="1 E+8 m²">194&#160;km<sup>2</sup></a> (75&#160;sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row">Elevation<div style="font-weight:normal;display:inline;"></div></th><td>290&#160;m (950&#160;ft)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(2005)<sup id="cite_ref-urlwww.dane.gov.co_2-0" class="reference"><a href="#cite_note-urlwww.dane.gov.co-2">&#91;2&#93;</a></sup></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Municipalities_of_Colombia" title="Municipalities of Colombia">Municipality</a> and town</th><td>4,519</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>23.29/km<sup>2</sup> (60.3/sq&#160;mi)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Urban_area" title="Urban area">Urban</a><div style="font-weight:normal;display:inline;"></div></th><td>1,945</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Rural_area" title="Rural area">Rural</a><div style="font-weight:normal;display:inline;"></div></th><td>2,547</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC-5" class="mw-redirect" title="UTC-5">UTC-5</a> (Colombia Standard Time)</td></tr><tr class="mergedtoprow"><th scope="row">Website</th><td><a rel="nofollow" class="external free" href="http://www.suarez-tolima.gov.co">http://www.suarez-tolima.gov.co</a></td></tr></tbody></table>
+<p><b>Suárez</b> (<small>Spanish pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Spanish" title="Help:IPA/Spanish">[ˈswaɾes]</a></span>) is a town and municipality in the <a href="/wiki/Tolima_Department" title="Tolima Department">Tolima</a> department of <a href="/wiki/Colombia" title="Colombia">Colombia</a>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Su%C3%A1rez,_Tolima&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-general-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-general_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.is/20121208140340/http://www.suarez-tolima.gov.co/nuestromunicipio.shtml?apc=m1I1--&amp;m=f">"Información general de Suárez"</a> (in Spanish). Archived from <a rel="nofollow" class="external text" href="http://www.suarez-tolima.gov.co/nuestromunicipio.shtml?apc=m1I1--&amp;m=f">the original</a> on 2012-12-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Informaci%C3%B3n+general+de+Su%C3%A1rez&amp;rft_id=http%3A%2F%2Fwww.suarez-tolima.gov.co%2Fnuestromunicipio.shtml%3Fapc%3Dm1I1--%26m%3Df&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASu%C3%A1rez%2C+Tolima" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-urlwww.dane.gov.co-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlwww.dane.gov.co_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091116013926/http://www.dane.gov.co/movil/files/censo2005/tolima/suarez.htm">"www.dane.gov.co"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.dane.gov.co/movil/files/censo2005/tolima/suarez.htm">the original</a> on 2009-11-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=www.dane.gov.co&amp;rft_id=http%3A%2F%2Fwww.dane.gov.co%2Fmovil%2Ffiles%2Fcenso2005%2Ftolima%2Fsuarez.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASu%C3%A1rez%2C+Tolima" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Municipalities_in_Tolima_Department" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Municipalities_tolima_department" title="Template:Municipalities tolima department"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Municipalities_tolima_department" title="Template talk:Municipalities tolima department"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Municipalities_tolima_department&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Municipalities_in_Tolima_Department" style="font-size:114%;margin:0 4em">Municipalities in <a href="/wiki/Tolima_Department" title="Tolima Department">Tolima Department</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alpujarra,_Tolima" title="Alpujarra, Tolima">Alpujarra</a></li>
+<li><a href="/wiki/Alvarado,_Tolima" title="Alvarado, Tolima">Alvarado</a></li>
+<li><a href="/wiki/Ambalema" title="Ambalema">Ambalema</a></li>
+<li><a href="/wiki/Anzo%C3%A1tegui,_Tolima" title="Anzoátegui, Tolima">Anzoategui</a></li>
+<li><a href="/wiki/Armero" title="Armero">Armero</a></li>
+<li><a href="/wiki/Ataco" title="Ataco">Ataco</a></li>
+<li><a href="/wiki/Cajamarca,_Tolima" title="Cajamarca, Tolima">Cajamarca</a></li>
+<li><a href="/wiki/Carmen_de_Apical%C3%A1" title="Carmen de Apicalá">Carmen de Apicala</a></li>
+<li><a href="/wiki/Casabianca,_Tolima" title="Casabianca, Tolima">Casabianca</a></li>
+<li><a href="/wiki/Chaparral,_Tolima" title="Chaparral, Tolima">Chaparral</a></li>
+<li><a href="/wiki/Coello,_Tolima" title="Coello, Tolima">Coello</a></li>
+<li><a href="/wiki/Coyaima" title="Coyaima">Coyaima</a></li>
+<li><a href="/wiki/Cunday" title="Cunday">Cunday</a></li>
+<li><a href="/wiki/Dolores,_Tolima" title="Dolores, Tolima">Dolores</a></li>
+<li><a href="/wiki/El_Espinal,_Tolima" title="El Espinal, Tolima">El Espinal</a></li>
+<li><a href="/wiki/Falan" title="Falan">Falan</a></li>
+<li><a href="/wiki/Flandes" title="Flandes">Flandes</a></li>
+<li><a href="/wiki/Fresno,_Tolima" title="Fresno, Tolima">Fresno</a></li>
+<li><a href="/wiki/Guamo" title="Guamo">Guamo</a></li>
+<li><a href="/wiki/Herveo" title="Herveo">Herveo</a></li>
+<li><a href="/wiki/Honda,_Tolima" title="Honda, Tolima">Honda</a></li>
+<li><b><a href="/wiki/Ibague" class="mw-redirect" title="Ibague">Ibague</a></b></li>
+<li><a href="/wiki/Icononzo" title="Icononzo">Icononzo</a></li>
+<li><a href="/wiki/Lerida,_Tolima" class="mw-redirect" title="Lerida, Tolima">Lerida</a></li>
+<li><a href="/wiki/Libano,_Tolima" class="mw-redirect" title="Libano, Tolima">Libano</a></li>
+<li><a href="/wiki/Mariquita,_Tolima" title="Mariquita, Tolima">Mariquita</a></li>
+<li><a href="/wiki/Melgar,_Tolima" title="Melgar, Tolima">Melgar</a></li>
+<li><a href="/wiki/Murillo,_Tolima" title="Murillo, Tolima">Murillo</a></li>
+<li><a href="/wiki/Natagaima" title="Natagaima">Natagaima</a></li>
+<li><a href="/wiki/Ortega,_Tolima" title="Ortega, Tolima">Ortega</a></li>
+<li><a href="/wiki/Palocabildo" title="Palocabildo">Palocabildo</a></li>
+<li><a href="/wiki/Piedras" title="Piedras">Piedras</a></li>
+<li><a href="/wiki/Planadas" title="Planadas">Planadas</a></li>
+<li><a href="/wiki/Prado,_Tolima" title="Prado, Tolima">Prado</a></li>
+<li><a href="/wiki/Purificaci%C3%B3n,_Tolima" title="Purificación, Tolima">Purificacion</a></li>
+<li><a href="/wiki/Rioblanco" title="Rioblanco">Rioblanco</a></li>
+<li><a href="/wiki/Roncesvalles,_Tolima" title="Roncesvalles, Tolima">Roncesvalles</a></li>
+<li><a href="/wiki/Rovira,_Tolima" title="Rovira, Tolima">Rovira</a></li>
+<li><a href="/wiki/Salda%C3%B1a,_Tolima" title="Saldaña, Tolima">Saldaña</a></li>
+<li><a href="/wiki/San_Antonio,_Tolima" title="San Antonio, Tolima">San Antonio</a></li>
+<li><a href="/wiki/San_Luis,_Tolima" title="San Luis, Tolima">San Luis</a></li>
+<li><a href="/wiki/Santa_Isabel,_Tolima" title="Santa Isabel, Tolima">Santa Isabel</a></li>
+<li><a class="mw-selflink selflink">Suarez</a></li>
+<li><a href="/wiki/Valle_de_San_Juan" title="Valle de San Juan">Valle de San Juan</a></li>
+<li><a href="/wiki/Venadillo" title="Venadillo">Venadillo</a></li>
+<li><a href="/wiki/Villahermosa,_Tolima" title="Villahermosa, Tolima">Villahermosa</a></li>
+<li><a href="/wiki/Villarrica,_Tolima" title="Villarrica, Tolima">Villarrica</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Flag_of_Tolima.svg" class="image" title="Flag of Tolima"><img alt="Flag of Tolima" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Tolima.svg/50px-Flag_of_Tolima.svg.png" decoding="async" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Tolima.svg/75px-Flag_of_Tolima.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Tolima.svg/100px-Flag_of_Tolima.svg.png 2x" data-file-width="720" data-file-height="480" /></a></div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Tolima.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Tolima.svg/40px-Flag_of_Tolima.svg.png" decoding="async" width="40" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Tolima.svg/60px-Flag_of_Tolima.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Tolima.svg/80px-Flag_of_Tolima.svg.png 2x" data-file-width="720" data-file-height="480" /></a></td><td><i>This <a href="/wiki/Tolima_Department" title="Tolima Department">Tolima Department</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Su%C3%A1rez,_Tolima&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Tolima-geo-stub" title="Template:Tolima-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Tolima-geo-stub" title="Template talk:Tolima-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Tolima-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1304
+Cached time: 20200729060317
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.572 seconds
+Real time usage: 0.708 seconds
+Preprocessor visited node count: 3553/1000000
+Post‐expand include size: 35492/2097152 bytes
+Template argument size: 5753/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7906/5000000 bytes
+Lua time usage: 0.297/10.000 seconds
+Lua memory usage: 4.31 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  665.591      1 -total
+ 79.56%  529.555      1 Template:Infobox_settlement
+ 59.06%  393.092      1 Template:Infobox
+ 13.51%   89.926      3 Template:Main_other
+ 13.33%   88.737      2 Template:Cite_web
+  4.06%   27.025      5 Template:Yesno
+  3.83%   25.508      1 Template:Pagetype
+  3.74%   24.884      1 Template:Infobox_settlement/areadisp
+  3.20%   21.271      1 Template:Tolima-geo-stub
+  2.95%   19.651      3 Template:Round
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10715574-0!canonical and timestamp 20200729060317 and revision id 917610880
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Suárez,_Tolima&amp;oldid=917610880">https://en.wikipedia.org/w/index.php?title=Suárez,_Tolima&amp;oldid=917610880</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Populated_places_in_the_Tolima_Department" title="Category:Populated places in the Tolima Department">Populated places in the Tolima Department</a></li><li><a href="/wiki/Category:Municipalities_of_Tolima_Department" title="Category:Municipalities of Tolima Department">Municipalities of Tolima Department</a></li><li><a href="/wiki/Category:Andean_Region_(Colombia)_geography_stubs" title="Category:Andean Region (Colombia) geography stubs">Andean Region (Colombia) geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Su%C3%A1rez%2C+Tolima" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Su%C3%A1rez%2C+Tolima" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Su%C3%A1rez,_Tolima" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Su%C3%A1rez,_Tolima" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Su%C3%A1rez,_Tolima">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Su%C3%A1rez,_Tolima&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Su%C3%A1rez,_Tolima&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Su%C3%A1rez,_Tolima" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Su%C3%A1rez,_Tolima" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Su%C3%A1rez,_Tolima&amp;oldid=917610880" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Su%C3%A1rez,_Tolima&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Su%C3%A1rez%2C_Tolima&amp;id=917610880&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2104427" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Su%C3%A1rez%2C+Tolima&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Su%C3%A1rez,_Tolima&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Su%C3%A1rez,_Tolima" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Su%C3%A1rez_(Tolima)" title="Suárez (Tolima) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Su%C3%A1rez_(munisipyo_sa_Kolombiya,_Departamento_de_Tolima,_lat_4,05,_long_-74,84)" title="Suárez (munisipyo sa Kolombiya, Departamento de Tolima, lat 4,05, long -74,84) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Su%C3%A1rez_(Tolima)" title="Suárez (Tolima) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Su%C3%A1rez_(Tolima)" title="Suárez (Tolima) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Su%C3%A1rez_(Tolima)" title="Suárez (Tolima) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%A3%E1%83%90%E1%83%A0%E1%83%94%E1%83%A1%E1%83%98_(%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%90)" title="სუარესი (ტოლიმა) – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Su%C3%A1rez,_Tolima" title="Suárez, Tolima – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Su%C3%A1rez_(Tolima)" title="Suárez (Tolima) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Su%C3%A1rez_(Tolima)" title="Suárez (Tolima) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Su%C3%A1rez_(kommun_i_Colombia,_Tolima,_lat_4,05,_long_-74,84)" title="Suárez (kommun i Colombia, Tolima, lat 4,05, long -74,84) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Su%C3%A1rez,_Tolima" title="Suárez, Tolima – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Su%C3%A1rez,_Tolima" title="Suárez, Tolima – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%98%87%E9%98%BF%E9%9B%B7%E6%96%AF_(%E6%89%98%E5%88%A9%E9%A6%AC%E7%9C%81)" title="蘇阿雷斯 (托利馬省) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2104427#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 24 September 2019, at 16:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Su%C3%A1rez,_Tolima&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.572","walltime":"0.708","ppvisitednodes":{"value":3553,"limit":1000000},"postexpandincludesize":{"value":35492,"limit":2097152},"templateargumentsize":{"value":5753,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7906,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  665.591      1 -total"," 79.56%  529.555      1 Template:Infobox_settlement"," 59.06%  393.092      1 Template:Infobox"," 13.51%   89.926      3 Template:Main_other"," 13.33%   88.737      2 Template:Cite_web","  4.06%   27.025      5 Template:Yesno","  3.83%   25.508      1 Template:Pagetype","  3.74%   24.884      1 Template:Infobox_settlement/areadisp","  3.20%   21.271      1 Template:Tolima-geo-stub","  2.95%   19.651      3 Template:Round"]},"scribunto":{"limitreport-timeusage":{"value":"0.297","limit":"10.000"},"limitreport-memusage":{"value":4522412,"limit":52428800}},"cachereport":{"origin":"mw1304","timestamp":"20200729060317","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Su\u00e1rez, Tolima","url":"https:\/\/en.wikipedia.org\/wiki\/Su%C3%A1rez,_Tolima","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2104427","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2104427","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-04-16T23:36:52Z","dateModified":"2019-09-24T16:43:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/39\/Colombia_-_Tolima_-_Su%C3%A1rez.svg","headline":"Colombian municipality of the department of Tolima"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":149,"wgHostname":"mw1267"});});</script></body></html>

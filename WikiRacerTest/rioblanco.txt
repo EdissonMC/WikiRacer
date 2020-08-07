@@ -1,0 +1,4 @@
+/wiki/antioquia.txt
+/wiki/cundinamarca.txt
+/wiki/espinal.txt
+/wiki/perritos.txt
